@@ -34,3 +34,5 @@ Ce dossier contient plusieurs éléments essentiels pour la reproduction des ré
         * modèle SIHR à trois compartiments, calibré sur des données COVID-19 belges de 2020,
         * représenter graphiquement la convergence de la prévalence (relative) et calculer quand les seuils sont atteints.
 * __SOCRATES__ : le dossier *socrates_rshiny-master* contient l'outil SOCRATES auxquels les nouveaux programmes font appel.
+
+__Remarque__ : Les données CoMix 2020 ne sont pas incluses dans ce dépôt en raison des réglementations RGPD. Les personnes souhaitant obtenir ces données sont invitées à en faire la demande.
